@@ -1,12 +1,12 @@
 # Trading Bot Web App
 
-Full-stack trading platform that streams live cryptocurrency market data, simulates trades in real time, and tracks portfolio performance through a web interface.
+Full-stack trading platform that streams live market data, supports simulated stock and cryptocurrency trades, and tracks portfolio performance through a web interface.
 
 ---
 
 ## Features
 
-- Streams live cryptocurrency market data using WebSockets
+- Streams live stock and cryptocurrency market data using WebSockets
 - Supports simulated (paper) trading with buy and sell orders
 - Tracks portfolio balance, open positions, and trade history
 - Stores market data and executed trades in a SQL database
